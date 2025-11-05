@@ -1,5 +1,5 @@
 # EX 3C Sudoku Solver
-## DATE:
+
 ## AIM:
 To write a python program to find the solution of sudoku puzzle using Backtracking.
 
@@ -15,8 +15,8 @@ To write a python program to find the solution of sudoku puzzle using Backtracki
 ```
 /*
 Program to implement to to find the solution of sudoku puzzle using Backtracking.
-Developed by: SRIRAJ G
-Register Number:  212222040161
+Developed by: PON NAGARAJAN M
+Register Number:  212222040115
 */
 ```
 ```
