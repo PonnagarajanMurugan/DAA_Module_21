@@ -1,5 +1,5 @@
 # EX 3D Pattern Matching
-## DATE:
+
 ## AIM:
 To write a python program to implement pattern matching on the given string using Brute Force algorithm.
 
@@ -16,8 +16,8 @@ To write a python program to implement pattern matching on the given string usin
 ```
 /*
 Program to implement the Pattern Matching.
-Developed by: SRIRAJ G
-Register Number: 212222040161
+Developed by: PON NAGARAJAN M
+Register Number: 212222040115
 */
 ```
 ```
